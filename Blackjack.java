@@ -4,7 +4,7 @@ public class Blackjack {
   public static void main(String[] args) {
 
     // Welcome Message
-    // System.out.print(ConsoleColors.CLEAR + ConsoleColors.BCYAN);
+    System.out.print(ConsoleColors.CLEAR + ConsoleColors.BCYAN);
     System.out.print(ConsoleColors.CLUB + "-");
     System.out.print(ConsoleColors.DIAMOND + "-");
     System.out.print(ConsoleColors.SPADE + "-");
